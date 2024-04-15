@@ -1,0 +1,1 @@
+print("day 8 is gonna take me 9 years to figure out i quite 3 times because of day 8 so i am skipping ts")
